@@ -2,7 +2,8 @@
 # 10.20.4.0/22  dhcp
 
 # GATEWAY
-10.20.0.10  tkygw.yude.tky
+10.20.0.10  kixgw.yude.tky
+10.20.0.11  gw.8yazaki.tky
 
 # SERVICE HOST
 10.20.3.10  pbx.yude.tky
